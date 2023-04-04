@@ -17,3 +17,7 @@ Ultimate tic tac toe game implemented in C in order to solidify knowledge of:
     Writing to files (txt & bin);
 
     Header files.
+
+
+
+![alt text](https://github.com/Goord123/Ultimate-tic-tac-toe/blob/main/Incomplete_Ultimate_Tic-Tac-Toe_Board.png?raw=true)
