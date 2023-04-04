@@ -1,8 +1,6 @@
 # Ultimate-tic-tac-toe
-Computer engineering 
 
-1st Year
-2021/2022
+1st Year of Computer engineering, 2021/2022
 
 Ultimate tic tac toe game implemented in C in order to solidify knowledge of: 
 
