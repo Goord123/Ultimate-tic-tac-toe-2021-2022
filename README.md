@@ -12,8 +12,8 @@ Ultimate tic tac toe game implemented in C in order to solidify knowledge of:
 
     Data structures;
 
-    Writing to files (txt & bin);
-
     Reading from files (txt & bin);
+
+    Writing to files (txt & bin);
 
     Header files.
