@@ -20,4 +20,4 @@ Ultimate tic tac toe game implemented in C in order to solidify knowledge of:
 
 
 
-![alt text](https://github.com/Goord123/Ultimate-tic-tac-toe/blob/main/Incomplete_Ultimate_Tic-Tac-Toe_Board.png?raw=true)
+![alt text](https://github.com/Goord123/Ultimate-tic-tac-toe-2021-2022/blob/main/Incomplete_Ultimate_Tic-Tac-Toe_Board.png?raw=true)
