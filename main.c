@@ -35,17 +35,7 @@ int main() {
 
     printf("Selecione o tabuleiro em que pretende jogar: \n");
     scanf("%d", &tab2Play);
-    /*
-    listaTab->tab[0][1] = 'X';
-    listaTab->tab[0][0] = 'X';
-    listaTab->tab[0][2] = 'X';
-    listaTab->prox->tab[0][1] = 'X';
-    listaTab->prox->tab[0][0] = 'X';
-    listaTab->prox->tab[0][2] = 'X';
-    listaTab->prox->prox->tab[0][1] = 'X';
-    listaTab->prox->prox->tab[0][0] = 'X';
-    listaTab->prox->prox->tab[0][2] = 'X';
-*/
+    
     while (1) {
 
         char win = checkGameOver(listaTab);
