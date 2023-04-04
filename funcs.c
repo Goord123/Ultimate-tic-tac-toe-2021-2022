@@ -423,7 +423,3 @@ pJogadas readJogadas(pJogadas a) {
     fclose(pf);
     return a;
 }
-
-pJogadas insereNaListAposLeitura(pJogadas a) {
-
-}
